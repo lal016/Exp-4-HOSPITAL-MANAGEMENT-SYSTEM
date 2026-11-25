@@ -46,22 +46,22 @@ Draw the following UML diagrams to represent the system:
 # DIAGRAMS:
 
 ## Use Case Diagram
-
+![alt text](<use case.png>)
 
 ## Class Diagram
-
+![alt text](class.png)
 
 ## Activity Diagram
-
+![alt text](activity.png)
 
 ## Sequence Diagram
-
+![alt text](sequence.png)
 
 ## Communication Diagram
-
+![alt text](communication.png)
 
 ## Package Diagram
-
+![alt text](package.png)
 
 # RESULT:
 
